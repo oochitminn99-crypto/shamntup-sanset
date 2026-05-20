@@ -135,7 +135,7 @@
     @apply h-[550px] border-[1px]
   }
   .titleMemo {
-    @apply text-center text-amber-500 text-wrap pt-2 font-sans font-extrabold italic p-1
+    @apply text-center text-amber-500 text-wrap pt-2 font-serif font-extrabold italic p-1
     xl:text-[18px] lg:text-[16px] md:text-[14px] sm:text-[11px]
   }
   .titleContact {
