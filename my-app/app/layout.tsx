@@ -44,7 +44,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
                   <Link href="/contact" className='navLink4'>ဖုန်းနံပါတ်များ</Link>
                 </button>
                 <button className='linkBtn'>
-                  <Link href="/blog" className='navLink5'>စာပေများ</Link>
+                  <Link href="/blog" className='navLink5'>စာကြည့်တိုက်</Link>
                 </button>
               </div>
             </div>
@@ -52,7 +52,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         </header>
         {children}
         <footer className='footer'>
-          NextJS V16.2.4 + TailwindCSS V3.4.19 တို့ ဖြင့် 'KhinMgMyint (fullstack.web.dev.)'မှ ကုတ်(code)ထားပါသည်။ AI 0%
+          NextJS V16.2.4 + TailwindCSS V3.4.19 တို့ ဖြင့် 'KhinMgMyint (web.dev.)'မှ ကုတ်(code)ထားပါသည်။ AI 0%
         </footer>
       </body>
     </html>
