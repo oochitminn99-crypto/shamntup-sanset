@@ -129,7 +129,7 @@ export default async function Page() {
             <Link href="/contact" className='navLink4'>ဖုန်းနံပါတ်များ</Link>
           </button>
           <button className='linkBtn'>
-            <Link href="/blog" className='navLink5'>စာပေများ</Link>
+            <Link href="/blog" className='navLink5'>စာကြည့်တိုက်</Link>
           </button>
         </div>
       </div>
